@@ -67,6 +67,8 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         Get your own piece of history and support your local news service at the same time. Collect the Doggos of Burbank today.```
 
         <hr className="my-4" />
+        <a href="https://burbanklive.com" >BurbankLive.com</a>
+        <hr className="my-4" />
         <img src="images/preview.gif" width="100%" />
         <hr className="my-4" />
         <button
