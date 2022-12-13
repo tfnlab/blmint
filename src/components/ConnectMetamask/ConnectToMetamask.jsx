@@ -65,9 +65,9 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
         <hr className="my-4" />
 
         Get your own piece of history and support your local news service at the same time. Collect the Doggos of Burbank today.```
-        
+
         <hr className="my-4" />
-        <img src="images/skellyclub.png" width="100%" />
+        <img src="images/preview.gif" width="100%" />
         <hr className="my-4" />
         <button
           onClick={connectToMetamask}
