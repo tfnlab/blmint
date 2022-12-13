@@ -63,7 +63,6 @@ const ConnectToMetamask = ({ connectToMetamask }) => {
 
         But this collection is more than just beautiful art. By purchasing an NFT from the Doggos of Burbank collection, you'll be supporting our local news service and helping us to continue providing essential coverage to the community.
         <hr className="my-4" />
-
         Get your own piece of history and support your local news service at the same time. Collect the Doggos of Burbank today.
 
         <hr className="my-4" />
