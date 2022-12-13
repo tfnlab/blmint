@@ -191,7 +191,7 @@ class FormAndPreview extends Component {
         <div class="container">
         <div class="card col-md-12 text-center" >
                     <div class="card-body">
-    <h6 class="card-subtitle mb-2">Mint Amount (Max 5 per Wallet)</h6>
+    <h6 class="card-subtitle mb-2">Mint Amount (Max 20 per Wallet)</h6>
     <div>
       <input
         required
@@ -211,7 +211,7 @@ class FormAndPreview extends Component {
         <form onSubmit={this.callClaimPunkFromApp} className="pt-4 mt-1">
           <div className="row">
           <div className="col-md-12">
-            Mint Price 0.01 ETH, First 500 is Free
+            Mint Price 0.01 ETH
             <div>
               <button
                 id="mintBtn22"
